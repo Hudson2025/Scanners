@@ -9,8 +9,6 @@ public class MyScanner
             if (scanner.hasNext()) {
                 String str = scanner.next();
                 System.out.println(str);
-                scanner.nextInt();
-                System.out.println(str);
             }
         }
     }
